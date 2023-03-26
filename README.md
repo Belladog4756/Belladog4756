@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+😄 Pronouns:She/Her
+🌱 I’m currently learning coding, computer science.
 <!--
 **Belladog4756/Belladog4756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
